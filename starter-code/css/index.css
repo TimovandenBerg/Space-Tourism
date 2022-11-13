@@ -584,7 +584,7 @@ body {
         'content';
 }
 
-.grid-container--destination>img {
+.grid-container--destination>picture {
     grid-area: image;
     max-width: 60%;
 }
@@ -687,7 +687,7 @@ body {
             '. image content .';
     }
 
-    .grid-container--destination > img,
+    .grid-container--destination > picture,
     .grid-container--crew > picture {
         max-width: 90%;
     }
@@ -708,7 +708,7 @@ body {
         justify-self: start;
     }
 
-    /* .grid-container--crew > img {
+    /* .grid-container--crew > pciture {
         align-self: end;
     } */
 
